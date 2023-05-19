@@ -12,8 +12,8 @@
 
 # [React](./react_library/)
 
-- [React Documentation](https://react.dev/learn)
+- [React Learn](https://react.dev/learn)
 
 # [Next.js](./nextjs_framework/)
 
-- [Next.js Documentation](https://nextjs.org/docs)
+- [Next.js Learn](https://nextjs.org/learn/foundations/about-nextjs)
